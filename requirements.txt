@@ -1,0 +1,4 @@
+gspread
+oauth2client
+Adafruit_DHT
+RPi.GPIO
